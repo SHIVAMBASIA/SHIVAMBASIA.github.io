@@ -17,13 +17,13 @@
 
 ---
 
-### Category Name 2
+### Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Deep Colorization using CNNs](https://github.com/SHIVAMBASIA/CIS-6930-Deep-Colorization)
+- [Stock Market Prediction](https://github.com/SHIVAMBASIA/CAP-6610-Stock-Market-Prediction)
+- [AI Tic-Tac Toe Game](https://github.com/SHIVAMBASIA/CIS6930-AI-Tic-Tac-Toe)
+- [Handwritten Mathematical Symbol Classifier](https://github.com/SHIVAMBASIA/EEL-5840-Handwritten-Mathematical-Symbol-Classifier)
+- [MIPS Compiler](https://github.com/SHIVAMBASIA/CDA-5155-MIPS-Simulator)
 
 ---
 
