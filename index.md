@@ -12,8 +12,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Deep Colorization using CNNs](https://github.com/SHIVAMBASIA/CIS-6930-Deep-Colorization)
+<img src="images/Deep_Colorization.jpg?raw=true"/>
 
 ---
 
