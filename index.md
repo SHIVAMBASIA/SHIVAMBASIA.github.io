@@ -17,11 +17,11 @@
 
 ---
 [Stock Market Prediction](https://github.com/SHIVAMBASIA/CAP-6610-Stock-Market-Prediction)
-<img src="images/stock_market_prediction.jpg?raw=true"/>
+<img src="images/stock_market_prediction.png?raw=true"/>
 
 ---
 [Handwritten Mathematical Symbol Classifier](https://github.com/SHIVAMBASIA/EEL-5840-Handwritten-Mathematical-Symbol-Classifier)
-<img src="images/Mathematical_Symbol_Classifier.jpg?raw=true"/>
+<img src="images/Mathematical_Symbol_Classifier.png?raw=true"/>
 
 ---
 [MIPS Compiler](https://github.com/SHIVAMBASIA/CDA-5155-MIPS-Simulator)
