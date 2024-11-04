@@ -13,10 +13,22 @@
 
 ---
 ### Company Projects
-Contributor of [Deep Intel NPU Acceleration Library](https://github.com/intel/intel-npu-acceleration-library)
+Lead Mentor of [AI:Idea to Production Cohort for AI Everywhere Program ](https://www.credly.com/go/HR2xy2JG)
+<img src="images/AI_Idea_To_Production_Lead_Image.png?raw=true"/>
+
+---
+Contributor of [Intel NPU Acceleration Library](https://github.com/intel/intel-npu-acceleration-library)
 <img src="images/NPU_Acceleration_Library.jpg?raw=true"/>
 
 ---
+Contributor of [Intel Openvino Notebooks](https://github.com/openvinotoolkit/openvino_notebooks)
+<img src="images/Intel_Openvino.jpg?raw=true"/>
+
+---
+Contributor of [Intel NPU Drivers/Firmwares](https://www.intel.com/content/www/us/en/download/794734/intel-npu-driver-windows.html)
+<img src="images/NPU_Architecture.jpg?raw=true"/>
+
+--
 ### College Projects
 
 [Deep Colorization using CNNs](https://github.com/SHIVAMBASIA/CIS-6930-Deep-Colorization)
