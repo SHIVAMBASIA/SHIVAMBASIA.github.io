@@ -22,13 +22,13 @@ Contributor of [Intel NPU Acceleration Library](https://github.com/intel/intel-n
 
 ---
 Contributor of [Intel Openvino Notebooks](https://github.com/openvinotoolkit/openvino_notebooks)
-<img src="images/Intel_Openvino.jpg?raw=true"/>
+<img src="images/Intel_Openvino.png?raw=true"/>
 
 ---
 Contributor of [Intel NPU Drivers/Firmwares](https://www.intel.com/content/www/us/en/download/794734/intel-npu-driver-windows.html)
 <img src="images/NPU_Architecture.jpg?raw=true"/>
 
---
+---
 ### College Projects
 
 [Deep Colorization using CNNs](https://github.com/SHIVAMBASIA/CIS-6930-Deep-Colorization)
