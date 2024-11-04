@@ -12,6 +12,13 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+### Company Projects
+Contributor of [Deep Intel NPU Acceleration Library](https://github.com/intel/intel-npu-acceleration-library)
+<img src="images/NPU_Acceleration_Library.jpg?raw=true"/>
+
+---
+### College Projects
+
 [Deep Colorization using CNNs](https://github.com/SHIVAMBASIA/CIS-6930-Deep-Colorization)
 <img src="images/Deep_Colorization.jpg?raw=true"/>
 
